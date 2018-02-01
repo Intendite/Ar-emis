@@ -2,6 +2,7 @@
 // Copyright (c) 2011 by: 
 // Charles Kelly
 // game.h v1.0
+//hi
 
 #ifndef _GAME_H                 // Prevent multiple definitions if this 
 #define _GAME_H                 // file is included in more than one place
